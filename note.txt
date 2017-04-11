@@ -1,0 +1,14 @@
+==编译步骤
+npm cache clean
+npm i -g cnpm
+cnpm i -g @angular/cli
+cnpm install
+ng serve
+
+--
+protractor.conf.js  --P2P Test Tool
+karma.conf.js  --web Front Test Framework
+tslint.json -- js code style && variable define or used check
+
+
+
